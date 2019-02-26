@@ -14,7 +14,7 @@ A lightweight foundation for your next webpack based frontend project.
 
 ##  Usage
 
-- Download the latest release from the [Releases page](https://github.com/erickzhao/static-html-webpack-boilerplate/releases).
+- Download the latest release from the [Releases page](https://github.com/tientran0019/html-scss-js-webpack-boilerplate/releases).
 - Write all your ES2015+ Javascript code in `src/js` and SCSS styling in `src/style`. Store static assets in `src/static`. Organize HTML files the way you like.
 - Available commands:
   - `yarn build`: Build files to the `dist` folder. Transpiles down to ES5 and bundles all JS into `app.bundle.js`. Transpiles SCSS to CSS and adds prefixing into `style.bundle.css`. Copies static assets and HTML over, and bundled CSS and JS gets added to HTML file.
